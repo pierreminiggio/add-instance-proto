@@ -1,0 +1,19 @@
+{
+  "name": "add-instance-proto",
+  "version": "1.0.0",
+  "description": "Enrich Singletons Proto",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pminiggio/add-instance-proto.git"
+  },
+  "author": "Pierre MINIGGIO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pminiggio/add-instance-proto/issues"
+  },
+  "homepage": "https://github.com/pminiggio/add-instance-proto#readme",
+  "devDependencies": {
+    "jquery": "^3.4.1"
+  }
+}
