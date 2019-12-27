@@ -13,7 +13,7 @@
     "url": "https://github.com/pminiggio/add-instance-proto/issues"
   },
   "homepage": "https://github.com/pminiggio/add-instance-proto#readme",
-  "devDependencies": {
+  "dependencies": {
     "jquery": "^3.4.1"
   }
 }
