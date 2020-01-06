@@ -5,14 +5,14 @@
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pminiggio/add-instance-proto.git"
+    "url": "git+https://github.com/pierreminiggio/add-instance-proto.git"
   },
   "author": "Pierre MINIGGIO",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pminiggio/add-instance-proto/issues"
+    "url": "https://github.com/pierreminiggio/add-instance-proto/issues"
   },
-  "homepage": "https://github.com/pminiggio/add-instance-proto#readme",
+  "homepage": "https://github.com/pierreminiggio/add-instance-proto#readme",
   "dependencies": {
     "jquery": "^3.4.1"
   }
