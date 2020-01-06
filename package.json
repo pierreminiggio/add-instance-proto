@@ -1,5 +1,5 @@
 {
-  "name": "add-instance-proto",
+  "name": "@pierreminiggio/add-instance-proto",
   "version": "1.0.0",
   "description": "Enrich Singletons Proto",
   "main": "main.js",
@@ -15,5 +15,9 @@
   "homepage": "https://github.com/pierreminiggio/add-instance-proto#readme",
   "dependencies": {
     "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
